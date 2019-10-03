@@ -4,7 +4,7 @@
 // console.log("Function was invoked!");
 // };
 // myFunction();
-
+() => myFunction
 // 4
 // let anotherFunction = function (param) {
 //   return param;
